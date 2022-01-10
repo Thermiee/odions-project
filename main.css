@@ -24,3 +24,13 @@
     background-color: #04AA6D;
     color: white;
   }
+
+  .content {
+    display: flex;
+    height: 500px;
+    width: 100%;
+  }
+
+  .image {
+    height: 500px;
+  }
